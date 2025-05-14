@@ -11,6 +11,7 @@ The current version of the hardware minimizes power switching/conditioning by us
 #### Version A
 | Component                        | Qty | Description                                                                                                                                                                                                 |
 |----------------------------------|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Ball head tripod with arca-swiss mount              | 1   | [Example](https://www.amazon.ca/dp/B0B1HYVVTV)   
 | Camera                           | 1   | Sony ZV-E10 Mark I (Mark II is the current version, it is untested in this application at this time)                                                                                                       |
 | Lens                             | 1   | Meike 6.5mm f/2.0 circular fisheye for Sony, [Example](https://www.amazon.ca/MEKE-Circular-Fisheye-Digital-Cameras) E-Mount                                                                                                                                                         |
 | Controller                       | 1   | Raspberry Pi 3B+ (Should probably move to a RPi 5 with 4GB RAM)                                                                                                                                             |
