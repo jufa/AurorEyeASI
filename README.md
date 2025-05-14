@@ -1,4 +1,5 @@
 # AurorEyeASI
+see [AurorEye.ca](https://auroreye.ca)
 
 ## Warranty
 All information is provided as-is and without warranty. The user of this software, hardware, and components does so at their own risk and assumes all liability.
