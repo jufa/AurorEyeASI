@@ -31,7 +31,7 @@ The current version of the hardware minimizes power switching/conditioning by us
 | USB-A Direction Reversers        | 1   | Similar to [this one](https://www.amazon.ca/dp/B0BN9QPB5W)                                                                                                                                                 |
 | Ball Mount Tripod Interface      | 1   | 70mm Quick Release Plate Fits Arca-Swiss – [Example](https://www.amazon.ca/dp/B0725S67MM)                                                                                                                  |
 | Case/Shell                       | 1   | Nanuk 905 (904 is a tight fit) – [Link](https://nanuk.com/products/nanuk-905)                                                                                                                              |
-| Custom PCB Hat                   | 1   | Breakout for several I2C devices, UART; 2-layer PCB. COTS alternate: [Seeed Studio 103030275](https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/103030275/9771826)                         |
+| Custom PCB Hat                   | 1   | Breakout for several I2C devices, UART; 2-layer PCB. Contact Repository Owner for this unpopulated board. COTS alternate: [Seeed Studio 103030275](https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/103030275/9771826)                         |
 | External USB-C Charger and associated USB-C to USB-C cable                | 1   | External charger/Power: [Anker USB C Charger (Nano 65W)](https://www.amazon.ca/Anker-Charger-Compact-Foldable-MacBook)   
 
 #### Version B additional Hardware
