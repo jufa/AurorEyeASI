@@ -1,10 +1,16 @@
 # AurorEyeASI
 see [AurorEye.ca](https://auroreye.ca)
 
+## Terms
+- The content of this repository is for non commercial use
+- If you are part of an educational or scientific institution (museum, university, government research agency) please contact the repository manager jeremy@jufainteredia.com
+- If your work using the repository leads to improvements to the hardware and software, please consider contributing these back to the repository on a feature branch
+- If there is a publication about your AurorEye build or resulting data, please contact jeremy@jufainteredia.com for citation details
+
 ## Warranty
 All information is provided as-is and without warranty. The user of this software, hardware, and components does so at their own risk and assumes all liability.
 
-## HARDWARE
+## Hardware
 The current version of the hardware minimizes power switching/conditioning by using a battery pack with pass through charging, suitable output and charge ports and a status display. An alternate version using a LiFePo4 pack is listed below.
 
 ### Bill of Materials
