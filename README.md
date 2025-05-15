@@ -1,6 +1,9 @@
 # AurorEyeASI
 see [AurorEye.ca](https://auroreye.ca)
 
+## Contact
+jeremy@jufaintermedia.com or in this repository as an issue
+
 ## Terms
 - The content of this repository is for non commercial use
 - If you are part of an educational or scientific institution (museum, university, government research agency) please contact the repository manager jeremy@jufainteredia.com
