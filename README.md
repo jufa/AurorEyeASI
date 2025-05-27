@@ -51,6 +51,8 @@ The current version of the hardware minimizes power switching/conditioning by us
 | 5A Rated Step-Down Converter | 1   | [Example](https://www.amazon.ca/dp/B085T73CSD) or similar, used for powering the RPi                                    |
 | Case                         | 1   | 3D print (under development)                                                                                            |
 
+## 3D Printable Shell
+This repository includes and STL file for 3D printing. This replaces the Nanuk 904 OTS hard case, aluminum mount bracket with 3D printable Shell with stackable configurable trays for battery, electronics, camera, and interface. This design integrates a 10mm dead space shell wall to reduce heat leakage has more interior room while maintaining similar external dimensions to the Nanuk 904 case.
 
 ## Development projects for students, researchers
 ### Hardware
