@@ -5,10 +5,7 @@ see [AurorEye.ca](https://auroreye.ca)
 jeremy@jufaintermedia.com or in this repository as an issue
 
 ## Terms
-- The content of this repository is for non commercial use
-- If you are part of an educational or scientific institution (museum, university, government research agency) please contact the repository manager jeremy@jufainteredia.com
-- If your work using the repository leads to improvements to the hardware and software, please consider contributing these back to the repository on a feature branch
-- If there is a publication about your AurorEye build or resulting data, please contact jeremy@jufainteredia.com for citation details
+see LICENSE.md
 
 ## Warranty
 All information is provided as-is and without warranty. The user of this software, hardware, and components does so at their own risk and assumes all liability.
