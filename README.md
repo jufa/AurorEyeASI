@@ -4,11 +4,11 @@ see [AurorEye.ca](https://auroreye.ca)
 ## Contact
 jeremy@jufaintermedia.com or in this repository as an issue
 
-## Terms
-see LICENSE.md
+## Terms of Use
+Please see LICENSE.md
 
 ## Warranty
-All information is provided as-is and without warranty. The user of this software, hardware, and components does so at their own risk and assumes all liability.
+Please see LICENSE.md
 
 ## Hardware
 The current version of the hardware minimizes power switching/conditioning by using a battery pack with pass through charging, suitable output and charge ports and a status display. An alternate version using a LiFePo4 pack is listed below.
