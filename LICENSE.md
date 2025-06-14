@@ -4,7 +4,7 @@
 The contents of this repository, including software, hardware designs, and documentation (the “Repository”), are made available under the following terms:
 
 ## Non-Commercial Use Only  
-This Repository is provided **for non-commercial use only**, with specific permission granted on a **per-project or per-group** basis.
+This Repository is provided **for non-commercial use only**, with specific permission granted on a **per-project or per-group** basis. The user is permitted to modify the software how they see fit, for example maintaining their own repository for use within the group.
 
 ## Permission for Educational and Scientific Use  
 If you are part of an **educational or scientific institution** (e.g., university, museum, or government research agency), you are invited to request permission to use the Repository by contacting:
