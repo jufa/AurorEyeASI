@@ -7,8 +7,7 @@ The contents of this repository, including software, hardware designs, and docum
 This Repository is provided **for non-commercial use only**, with specific permission granted on a **per-project or per-group** basis. Licensees are permitted to modify the software as they see fit, including maintaining a separate repository for internal use within their group.
 
 ## Third-Party Dependencies  
-The licenses of any third-party libraries or tools referenced in this Repository must be respected.  
-It is the responsibility of the user to review and comply with the license terms of these external dependencies.
+The licenses of any third-party libraries or tools referenced in this Repository must be respected. It is the responsibility of the user to review and comply with the license terms of these external dependencies.
 
 ## Permission for Educational and Research Use  
 This project is intended for use by **educational and research institutions** (e.g., university, museum, or government research agency), you are invited to request permission to use the Repository by contacting:
@@ -32,7 +31,6 @@ In no event shall **Jeremy Kuzub** or **Jufa Intermedia Inc. (Canada)** be liabl
 
 ## Hardware Disclaimer  
 This Repository may include a suggested bill of materials (BOM) for hardware components. These are provided for reference only.  
-**Jeremy Kuzub** and **Jufa Intermedia Inc. (Canada)** make no guarantees about the performance, safety, availability, or suitability of any specific hardware components listed.  
-Use of these components is entirely at your own risk, and **Jeremy Kuzub** and **Jufa Intermedia Inc. (Canada)** assume no liability for any outcomes resulting from their use.
+**Jeremy Kuzub** and **Jufa Intermedia Inc. (Canada)** make no guarantees about the performance, safety, availability, or suitability of any specific hardware components listed.  Use of these components is entirely at your own risk, and **Jeremy Kuzub** and **Jufa Intermedia Inc. (Canada)** assume no liability for any outcomes resulting from their use.
 
 
