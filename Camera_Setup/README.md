@@ -2,7 +2,7 @@
 The current version of AurorEye uses the Sony ZV-E10 Mark I camera.
 This needs to have some default settings updated to work with the AurorEye software - specific settings that cannot be accessed from the USB control port, and are set up using the camera's on screen menu and back-of-camera buttons.
 
-## Method 1: Copy Predefined Memory ettings File on SD Card
+## Method 1: Copy predefined memory settings file onto SD card then into camera internal memory
 1. Copy the file `CAMPR01N.DAT` to an SD card
 2. Insert this SD card into the camera.
 3. Make sure the USB-C cable is NOT connected to the camera
