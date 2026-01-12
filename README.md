@@ -10,16 +10,11 @@ Please see LICENSE.md
 ## Warranty
 Please see LICENSE.md
 
-## Hardware
-The current version of the hardware minimizes power switching/conditioning by using a battery pack with pass through charging, suitable output and charge ports and a status display. An alternate version using a LiFePo4 pack is listed below.
-
 ### Bill of Materials
 Please see BOM.md
 
 ## 3D Printable Shell
-This repository includes and STL file for 3D printing. This replaces the Nanuk 904 OTS hard case, aluminum mount bracket with 3D printable Shell with stackable configurable trays for battery, electronics, camera, and interface. This design integrates a 10mm dead space shell wall to reduce heat leakage has more interior room while maintaining similar external dimensions to the Nanuk 904 case.
-
-This case shell is under active development and a refined version is expected in early November 2025
+This repository includes an .3mf file for 3D printing. Preferred material is PETG.
 
 ## Development projects for students, researchers
 ### Hardware
