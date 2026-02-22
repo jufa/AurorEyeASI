@@ -4,7 +4,7 @@ This needs to have some default settings updated to work with the AurorEye softw
 
 ## Method 1: Copy predefined memory settings file onto SD card then into camera internal memory
 0. Ensure camera is at latest Firmware version (2.0.2) [Link to firmware download](https://www.sony.ca/en/electronics/support/e-mount-body-zv-e-series/zv-e10/downloads). Note that the Sony Camera Driver may need to be updated on the host computer that is managing the firmware upgrade as per the instructions at the link
-1. Copy the file `CAMPR01N.DAT` to an SD card under the folder path: `[SDCARD ROOT]/PRIVATE/SONY/SETTING/E10/CAMPR01N.DAT`
+1. Copy the file `CAMPR01N.DAT` to an SD card under the folder path: `[SDCARD ROOT]/PRIVATE/SONY/SETTING/E10/CAMPR01N.DAT` NOTE: if your camera is set to PAL format for video, you may have to change the filename "N" to a "P" for the file to be recognized, or switch the camera to NTSC
 3. Insert this SD card into the camera.
 4. Make sure the USB-C cable is NOT connected to the camera
 5. Power on the camera
