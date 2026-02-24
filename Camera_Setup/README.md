@@ -24,3 +24,18 @@ This needs to have some default settings updated to work with the AurorEye softw
 
 ## Method 2: manually go through all menu screens and set them to match the PDF in this folder
 Then save the settings using steps 10 onward above. This does not require you to copy the .DAT settings file to an SD card but can be tedious.
+
+## Note on Sony behavior with saving 
+in most cases you will be modifying the camera settings while the camera is connected to the AurorEye. 
+ - make sure the AurorEye is done boot equence before changing settings
+ - do not unpliug the USB cable when changing settings using camera controls and menu
+ - ensure you save the settings once done to Camera Set Memory [1]
+ - ensure the camera is using Recall Camera Settings [1]
+ - after doing this, turn off the camera with its top plate on/off switch and wait 30 seconds to ensure settings are saved
+ - power camera up again
+ - now you can power off the AurorEye and the settings should be saved
+
+## Notes on SD card parallel operation
+In the case that you want to use your own workflow, you can save RAW file to an SD card inserted in the ZV-E10 with some precautions:
+ - The SD card can fill up rapidly, the behaviour of the camera when SD card becaomes full while in capture sequence has not been tested
+ - The settings for what files go to which storage media are under the camera menu "PC Remote Operation"
