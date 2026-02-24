@@ -26,7 +26,7 @@ This needs to have some default settings updated to work with the AurorEye softw
 Then save the settings using steps 10 onward above. This does not require you to copy the .DAT settings file to an SD card but can be tedious.
 
 ## Note on Sony behavior with saving 
-in most cases you will be modifying the camera settings while the camera is connected to the AurorEye. 
+in most cases you will be modifying the camera settings while the camera is connected to the AurorEye. The ZV-E10 has been characterized to determine it needs some time after it has been powered down via its own power switch to be sure any settings are saved.
  - make sure the AurorEye is done boot equence before changing settings
  - do not unpliug the USB cable when changing settings using camera controls and menu
  - ensure you save the settings once done to Camera Set Memory [1]
