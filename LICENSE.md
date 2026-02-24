@@ -26,6 +26,9 @@ If your project or publication involves an **AurorEye build** or data derived fr
 ## Disclaimer  
 This Repository is provided by **Jeremy Kuzub** and **Jufa Intermedia Inc. (Canada)** **AS IS**, **without warranty of any kind**, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
+## Communication and Questions
+Responses to any questions about the system or its construction, operations are without warranty and to be referenced at your own risk.
+
 ## Limitation of Liability  
 In no event shall **Jeremy Kuzub** or **Jufa Intermedia Inc. (Canada)** be liable for any claim, damages, or other liability—whether in an action of contract, tort, or otherwise—arising from, out of, or in connection with the use of this Repository or the software and hardware contained herein.
 
